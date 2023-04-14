@@ -3,6 +3,8 @@ import "./App.css";
 import Header from "./components/Header";
 import About from "./components/About";
 import Payment from "./components/Payment";
+import Partners from "./components/Partners";
+import Subscribe from "./components/Subscribe";
 
 const App = () => {
   return (
@@ -12,6 +14,8 @@ const App = () => {
         <About />
         <Payment />
       </div>
+      <Partners />
+      <Subscribe />
     </>
   );
 };
