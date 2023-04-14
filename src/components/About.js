@@ -96,6 +96,8 @@ const About = () => {
           </div>
         </div>
       </div>
+
+      <div class="blue_shade top-[35%] lg:top-[15%] -z-10"></div>
     </div>
   );
 };

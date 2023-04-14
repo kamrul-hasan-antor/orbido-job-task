@@ -19,14 +19,18 @@ p {
   border-radius: 200px;
   transform: rotate(-20deg);
 }
-/* .antor {
-  background: linear-gradient(
-    153.47deg,
-    rgba(255, 255, 255, 0) -341.94%,
-    #14101d 95.11%
-  );
 
-} */
+.blue_shade {
+  position: absolute;
+  width: 436.52px;
+  height: 544.07px;
+  right: -5%;
+  background: linear-gradient(#1a2980 40%, #26d0ce 100%);
+  filter: blur(300px);
+  border-radius: 650px;
+  transform: rotate(-47.46deg);
+}
+
 .start_btn {
   background: linear-gradient(
     to bottom right,
